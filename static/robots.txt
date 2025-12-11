@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://example.com/sitemap.xml
+
+# ----- OpenAI -----
+# 検索用 OAI-SearchBot / ChatGPT-User は許可（*のルールでクロール可）
+# 学習用 GPTBot はブロック
+User-agent: GPTBot
+Disallow: /
+
+# ----- Anthropic -----
+# 検索用 Claude-SearchBot / Claude-User は許可
+# 学習寄与の ClaudeBot はブロック
+User-agent: ClaudeBot
+Disallow: /
+
+# ----- Perplexity -----
+# PerplexityBot は検索用クロール（学習用途ではないと明記されている）
+# 必要なら、ここでブロックもできるが、検索に出したいなら何も書かないのが無難
+# User-agent: PerplexityBot
+# Disallow: /
+
+# ※ Bing / Google など通常の検索エンジンはデフォルトで許可（* に従う）

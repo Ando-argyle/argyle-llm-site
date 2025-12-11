@@ -1,0 +1,2 @@
+{{- /* LLM向け: frontmatterを取り除いた「生のMarkdown」をそのまま出す */ -}}
+{{- .RawContent -}}

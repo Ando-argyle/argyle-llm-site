@@ -1,0 +1,30 @@
+baseURL: "https://example.com/"
+languageCode: "ja"
+title: "Argyle AI / SNS Solutions"
+
+# ★ いったんシンプルに：デフォルトの mediaTypes だけ使う
+#   LLM用は text/plain を使う
+
+outputFormats:
+  HTML:
+    mediaType: text/html
+    isHTML: true
+    baseName: "index"
+  LLM:
+    mediaType: text/plain
+    isPlainText: true
+    baseName: "index.html"  # => index.html.txt というファイル名になる
+
+# 各ページは HTML と LLM（プレーンテキスト）を両方出す
+outputs:
+  page:
+    - HTML
+    - LLM
+
+# タグやカテゴリの「一覧ページ」を今回は使わないなら taxonomies を空に
+taxonomies: {}
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.5
+  filename: "sitemap.xml"
