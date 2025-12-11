@@ -6,7 +6,6 @@
   <meta name="description" content="{{ .Params.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- 公開前の安全対策：インデックス禁止 -->
   <meta name="robots" content="noindex, nofollow, noarchive">
 
   <style>
@@ -56,13 +55,6 @@
       color: #222;
     }
 
-    h3 {
-      margin-top: 1.6rem;
-      margin-bottom: .8rem;
-      font-size: 1.3rem;
-      font-weight: 600;
-    }
-
     p, ul, ol {
       margin: 1rem 0;
     }
@@ -77,42 +69,13 @@
     }
     a:hover { text-decoration: underline; }
 
-    blockquote {
-      border-left: 4px solid #ddd;
-      padding-left: 1rem;
-      color: #555;
-      margin: 1.5rem 0;
+    li {
+      margin-bottom: .7rem;
     }
 
-    code {
-      background: #f4f4f4;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
+    small {
+      color: #666;
       font-size: 0.9rem;
-    }
-
-    pre {
-      background: #272822;
-      color: #f8f8f2;
-      padding: 1rem;
-      border-radius: 6px;
-      overflow-x: auto;
-      margin: 1.5rem 0;
-    }
-
-    .toc-box {
-      padding: 1rem;
-      background: #f9f9f9;
-      border: 1px solid #eee;
-      border-radius: 8px;
-      margin-bottom: 2rem;
-    }
-    .toc-box h2 {
-      margin-top: 0;
-      font-size: 1.2rem;
-      border: none;
-      padding-bottom: 0;
-      color: #444;
     }
   </style>
 </head>
@@ -130,18 +93,22 @@
   </header>
 
   <main>
-
-    <!-- 目次 -->
-    <div class="toc-box">
-      <h2>目次</h2>
-      {{ .TableOfContents }}
-    </div>
-
-    <!-- 本文 -->
     <article>
+      {{/* _index.md の本文 */}}
       {{ .Content }}
-    </article>
 
+      {{ if .Pages }}
+        <h2>ページ一覧</h2>
+        <ul>
+          {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+            {{ with .Params.description }}<small>{{ . }}</small>{{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </article>
   </main>
 
   <footer>

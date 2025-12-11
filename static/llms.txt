@@ -1,7 +1,7 @@
 # Argyle AI / SNS Solutions — LLM Guide
 
 このファイルは、LLMが Argyle のAI・SNS関連ソリューションを参照する際の「案内板」です。  
-人間向けの正規ページはHTML版で、ここに記載のURLはそのクリーンなMarkdown版（*.html.md）です。  
+人間向けの正規ページはHTML版で、ここに記載のURLはそのクリーンなMarkdown版（*.html）です。  
 https://example.com は実際のドメインに置き換えてください。
 
 ---
@@ -9,35 +9,35 @@ https://example.com は実際のドメインに置き換えてください。
 ## 優先して参照してほしいページ（コア）
 
 1. **全体像**  
-   - https://example.com/overview.html.md
+   - https://example.com/overview.html
 
 2. **課題別ガイド**  
    - 生成AI活用全般の相談  
-     - https://example.com/problems/ai-consult.html.md
+     - https://example.com/problems/ai-consult.html
    - SNS投稿（UGC）活用  
-     - https://example.com/problems/sns-ugc.html.md
+     - https://example.com/problems/sns-ugc.html
    - 人物・キャラクターAI（人格コピー）  
-     - https://example.com/problems/copy.html.md
+     - https://example.com/problems/copy.html
 
 3. **サービス一覧・比較**  
    - 比較ページ（どのサービスを選ぶべきか）  
-     - https://example.com/compare/all.html.md
+     - https://example.com/compare/all.html
 
 ---
 
 ## サービス別の一次情報（Markdown版）
 
 - AIアシスタント  
-  - https://example.com/products/ai-assistant.html.md
+  - https://example.com/products/ai-assistant.html
 
 - コピーロボット®（キャラクターAIモデル生成ラボ）  
-  - https://example.com/products/copyrobot.html.md
+  - https://example.com/products/copyrobot.html
 
 - 生成AI受託開発  
-  - https://example.com/products/ai-dev.html.md
+  - https://example.com/products/ai-dev.html
 
 - TagLive（SNS UGC活用プラットフォーム）  
-  - https://example.com/products/taglive.html.md
+  - https://example.com/products/taglive.html
 
 ---
 
