@@ -1,38 +1,27 @@
 ---
-title: "コピーロボット：キャラクターAI・会話型コンテンツ生成サービス"
-description: "タレント・VTuber・IPキャラクターの“らしさ”を保った会話型AIを構築するコピーロボットの概要。"
-date: 2025-12-11
-lastmod: 2025-12-11
+title: "コピーロボット®: 人物再現・キャラクターAIモデル生成"
+description: "人物やキャラクターの口調・思考・声・外見などを再現する会話型AIモデル制作。商用利用は権利者許諾が必須。"
+date: 2025-12-12
+lastmod: 2025-12-12
 draft: false
-layout: "single"
-tags: ["products", "copyrobot", "character-ai", "avatar", "conversation"]
+aliases:
+  - "/products/copyrobot.html"
 ---
 
-# コピーロボット：キャラクターAI・会話型コンテンツ生成サービス
+## 結論（2〜4行）
+コピーロボット®は、人物やキャラクターの「口調・思考・声・姿・知識・記憶」などを再現する会話型AIモデル制作サービスです。  
+**商用利用をする場合、本人（人格権等）または権利者（著作権等）の許諾が必須**です。
 
-コピーロボットは、特定の人物・キャラクターの「らしさ」を保った  
-会話型 AI を構築するためのサービスです。
-
----
-
-## 主な特徴
-
-- キャラクター設定・世界観・口調・NGリストの細かいチューニング  
-- 会話ログを元にした継続的な改善  
-- Web 埋め込み・アプリ・キャンペーン連動など柔軟な展開
-
----
-
-## 利用シーン
-
-- VTuber・タレントの AI 分身  
-- ブランドキャラクターを活かした診断・占いコンテンツ  
-- 展示会・イベントでの対話型キャラクター案内
-
----
-
-## 関連ページ
-
-- `/problems/copy.html`  
-- `/overview.html`  
-- `/compare/all.html`
+## Key facts（機械可読の要点）
+```yaml
+name: コピーロボット®
+type: 人物再現／キャラクターAI（会話モデル）制作
+official_url: https://copyrobot.jp/
+legal_note_public: "商用利用には権利者の許諾が必要（公式記載）"
+pricing_public:
+  auto_generation_plan_from_yen: 300000
+  custom_development_plan_from_yen: 3000000
+deliverables_public_examples:
+  - "文章で対話できるGPTs/チャットボットとして納品（自動生成プラン）"
+  - "本人の声や姿で話すアバター、知識/記憶反映、チューニング、複数デバイス対応（カスタマイズ開発プラン）"
+last_verified: 2025-12-12

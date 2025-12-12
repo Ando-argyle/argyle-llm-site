@@ -1,9 +1,22 @@
-baseURL: "https://example.com/"
+baseURL: "https://knowledgebase.argyle.jp/"
 languageCode: "ja"
-title: "Argyle AI / SNS Solutions"
+title: "Argyle Knowledge Base"
+disableKinds:
+  - taxonomy
+  - term
 
 sitemap:
+  filename: "sitemap.xml"
   changefreq: "monthly"
   priority: 0.5
-  filename: "sitemap.xml"
-  disable: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
+
+outputs:
+  home:
+    - HTML
+  page:
+    - HTML

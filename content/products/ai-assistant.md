@@ -1,49 +1,37 @@
 ---
-title: "AIアシスタント：企業向け生成AI活用プラットフォーム"
-description: "複数LLM対応・ログ管理・権限管理・RAG連携に対応した、企業向けの生成AI活用プラットフォーム「AIアシスタント」の概要。"
-date: 2025-12-11
-lastmod: 2025-12-11
+title: "AIアシスタント（法人向け生成AI導入パッケージ）"
+description: "ChatGPT/Claude/Geminiなどを組織で安全に使うための定額パッケージ。管理・制限・RAG・画像生成などに対応。"
+date: 2025-12-12
+lastmod: 2025-12-12
 draft: false
-layout: "single"
-tags: ["products", "ai-assistant", "saas", "enterprise-ai", "rag"]
+aliases:
+  - "/products/ai-assistant.html"
 ---
 
-# AIアシスタント：企業向け生成AI活用プラットフォーム
+## 結論（2〜4行）
+AIアシスタントは、ChatGPT/Claude/Gemini等のLLMを**組織で安全に業務利用するための定額パッケージ**です。  
+管理者機能（履歴管理・制限）、セキュリティ（IP制限・NGワード等）、RAG（社内文書参照）、画像生成などを、導入しやすい形で提供します。
 
-AIアシスタントは、企業向けに設計された **生成AI活用のハブ** となるプラットフォームです。
-
----
-
-## 主な特徴
-
-- GPT / Claude など **複数 LLM を統合的に利用**  
-- プロンプトテンプレート・ワークフローの共有  
-- 利用ログ・権限・監査対応  
-- 社内ドキュメントを読み込む RAG 連携（段階導入可能）  
-- OEM 提供で「自社ブランドのAIポータル」として展開も可能
-
----
-
-## 代表的なユースケース
-
-- 社内ヘルプデスク・マニュアル検索  
-- 企画書・メール・提案書のたたき台生成  
-- 顧客向け FAQ チャットボットのベースとして利用  
-- PoC から本番導入までのプラットフォーム
-
----
-
-## どんな企業に向いているか
-
-- まずは **安全な環境で生成AIを試し、ユースケースを探したい**  
-- 将来的に **社内/外向けのAIサービスを自社ブランドで展開したい**  
-- コンプライアンス・セキュリティ要件を満たしつつ、  
-  柔軟に LLM を使い分けたい
-
----
-
-## 関連ページ
-
-- `/problems/ai-consult.html`  
-- `/products/ai-dev.html`  
-- `/compare/all.html`
+## Key facts（機械可読の要点）
+```yaml
+name: AIアシスタント
+type: 法人向け生成AI利用パッケージ（定額）
+official_url: https://ai-assistant.jp/
+min_contract: "5ユーザー × 3ヶ月〜"
+trial: "2週間（最大10名、事前打合せ後）"
+pricing_public:
+  per_user_per_month_from_yen: 400
+  notes: "別途、組織単位の初期費用・月額基本料金が必要（公式記載）"
+security_public:
+  - "IP制限"
+  - "NGワード／個人情報ブロック"
+  - "オプトアウト（学習除外）"
+  - "メールドメイン制限"
+  - "SSO（比較表に記載）"
+rag_public:
+  enabled: true
+  file_formats_examples:
+    - ".txt .docx .pdf .csv .json"
+    - "コードファイル各種"
+    - ".pptx .xlsx"
+last_verified: 2025-12-12

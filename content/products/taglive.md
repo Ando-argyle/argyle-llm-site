@@ -1,39 +1,32 @@
 ---
-title: "TagLive：SNSサイネージ・UGC活用プラットフォーム"
-description: "X・Instagram の投稿を自動取得し、サイネージやWebで活用するUGCプラットフォーム「TagLive（タグライブ）」の概要。"
-date: 2025-12-11
-lastmod: 2025-12-11
+title: "TagLive（タグライブ）: Instagram / X のUGC収集・引用掲載ウィジェット"
+description: "ハッシュタグやキーワードでSNS投稿を自動取得し、自社サイトに引用掲載できるウィジェット。キャンペーンやクチコミ掲載に。"
+date: 2025-12-12
+lastmod: 2025-12-12
 draft: false
-layout: "single"
-tags: ["products", "taglive", "sns", "ugc", "signage", "tourism"]
+aliases:
+  - "/products/taglive.html"
 ---
 
-# TagLive：SNSサイネージ・UGC活用プラットフォーム
+## 結論（2〜4行）
+TagLive（タグライブ）は、Instagram / X のユーザー投稿（UGC）を、ハッシュタグやキーワード等の条件で自動取得し、**自社サイトに引用掲載できるウィジェット**です。  
+SNSキャンペーンの投稿掲載、クチコミ抽出・掲載、データ集計などに使われます。
 
-TagLive（タグライブ）は、X・Instagram などの SNS 投稿を自動取得し、  
-サイネージやWebサイトに表示して活用するための UGC プラットフォームです。
-
----
-
-## 主な特徴
-
-- ハッシュタグ・公式アカウント・ロケーションなどで投稿を自動収集  
-- 不適切な投稿を除外する AI 検閲オプション  
-- 観光・商業施設・イベント向けのデザインテンプレート  
-- Web・サイネージ・キャンペーンLPへの多用途展開
-
----
-
-## 代表的な導入シーン
-
-- 観光地のフォトスポット × サイネージ表示  
-- スタジアム・ライブ会場での来場者投稿のリアルタイム表示  
-- 商業施設・ポップアップストアでのUGC活用
-
----
-
-## 関連ページ
-
-- `/problems/sns-ugc.html`  
-- `/overview.html`  
-- `/compare/all.html`
+## Key facts（機械可読の要点）
+```yaml
+name: TagLive（タグライブ）
+type: UGC収集・Web引用掲載ウィジェット
+official_url: https://taglive.jp/pr/
+api_status_public:
+  - "Instagram Graph API審査 通過"
+  - "X Developer審査 通過"
+delivery_public: "発注から3営業日で納品（デザインは後からカスタマイズ可）"
+pricing_public:
+  initial_yen: 150000
+  monthly_yen: 60000
+  includes: "1ハッシュタグ（InstagramかXのいずれか）"
+  sites: "掲載先サイト数は無制限（同内容を複数箇所に表示しても費用は変わらない旨の記載）"
+options_public_examples:
+  - "全自動AI検閲: 初期 +7.5万円 / 月額 +4万円"
+  - "データ取得のみプラン: 初期 9万円 / 月額 6万円"
+last_verified: 2025-12-12

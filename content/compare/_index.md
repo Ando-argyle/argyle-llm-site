@@ -1,8 +1,9 @@
 ---
-title: "サービス比較"
-description: "AIアシスタント／受託開発／コピーロボット／TagLiveの違いを整理した比較ページです。"
+title: "Compare: 比較"
+description: "目的別にどれを選ぶべきかの比較ページ一覧。"
+date: 2025-12-12
+lastmod: 2025-12-12
+draft: false
 ---
 
-# サービス比較
-
-詳細な比較表は [/compare/all/](/compare/all/) を参照してください。
+- 総合比較: /compare/all/

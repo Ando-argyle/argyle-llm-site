@@ -2,151 +2,177 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
-  <title>{{ .Title }}</title>
-  <meta name="description" content="{{ .Params.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- 公開前の安全対策：インデックス禁止 -->
-  <meta name="robots" content="noindex, nofollow, noarchive">
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+
+  {{- $desc := .Params.description | default site.Params.description | default "" -}}
+  {{- if $desc -}}
+  <meta name="description" content="{{ $desc }}">
+  {{- end -}}
+
+  <!-- canonical (正規URLの宣言) -->
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <!-- robots: デフォルトは index/follow（robots.txt 側で制御） -->
+  {{- with .Params.robots -}}
+  <meta name="robots" content="{{ . }}">
+  {{- end -}}
 
   <style>
+    :root { --max: 920px; --fg:#111; --muted:#555; --link:#0b63c7; --bg:#fff; --border:#eaeaea; --code:#f6f6f6; }
+    * { box-sizing: border-box; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.8;
-      margin: 40px auto;
-      max-width: 900px;
-      padding: 0 20px;
-      color: #111;
-      background: #fff;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+      line-height: 1.85;
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
     }
-
-    header, footer {
-      margin-bottom: 2rem;
-      font-size: 0.9rem;
-      color: #666;
-    }
-
-    nav.site-nav {
-      margin-top: .3rem;
-    }
-    nav.site-nav a {
-      margin-right: 1rem;
-      text-decoration: none;
-      color: #0077cc;
+    main { max-width: var(--max); margin: 0 auto; padding: 36px 18px 56px; }
+    header { margin-bottom: 22px; }
+    .toplink {
+      display: inline-block;
       font-size: 0.95rem;
-    }
-    nav.site-nav a:hover {
-      text-decoration: underline;
-    }
-
-    h1 {
-      font-size: 2.2rem;
-      margin-top: 2.2rem;
-      margin-bottom: 1.5rem;
-      font-weight: 700;
-      border-bottom: 2px solid #eee;
-      padding-bottom: .3rem;
-    }
-
-    h2 {
-      margin-top: 2rem;
-      margin-bottom: 1rem;
-      font-size: 1.6rem;
-      font-weight: 700;
-      color: #222;
-    }
-
-    h3 {
-      margin-top: 1.6rem;
-      margin-bottom: .8rem;
-      font-size: 1.3rem;
-      font-weight: 600;
-    }
-
-    p, ul, ol {
-      margin: 1rem 0;
-    }
-
-    ul, ol {
-      padding-left: 1.4rem;
-    }
-
-    a {
-      color: #0077cc;
+      color: var(--link);
       text-decoration: none;
+      margin-bottom: 10px;
     }
+    .toplink:hover { text-decoration: underline; }
+    h1 {
+      font-size: 2rem;
+      margin: 10px 0 8px;
+      font-weight: 800;
+      letter-spacing: .2px;
+    }
+    .meta {
+      color: var(--muted);
+      font-size: 0.95rem;
+      margin-top: 6px;
+    }
+    nav.toc {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 14px 10px;
+      margin: 22px 0 26px;
+      background: #fcfcfc;
+    }
+    nav.toc h2 {
+      font-size: 1rem;
+      margin: 0 0 8px;
+      font-weight: 700;
+    }
+    nav.toc ul { margin: 0; padding-left: 1.2rem; }
+    nav.toc a { color: var(--link); text-decoration: none; }
+    nav.toc a:hover { text-decoration: underline; }
+
+    a { color: var(--link); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
+    p, ul, ol { margin: 1rem 0; }
+    ul, ol { padding-left: 1.4rem; }
+
+    h2 {
+      margin-top: 2.2rem;
+      margin-bottom: 0.9rem;
+      font-size: 1.45rem;
+      font-weight: 800;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: .25rem;
+    }
+    h3 {
+      margin-top: 1.6rem;
+      margin-bottom: 0.6rem;
+      font-size: 1.2rem;
+      font-weight: 750;
+    }
+
     blockquote {
-      border-left: 4px solid #ddd;
-      padding-left: 1rem;
-      color: #555;
-      margin: 1.5rem 0;
+      border-left: 4px solid var(--border);
+      padding: 0.2rem 0 0.2rem 1rem;
+      color: var(--muted);
+      margin: 1.2rem 0;
     }
 
     code {
-      background: #f4f4f4;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-      font-size: 0.9rem;
+      background: var(--code);
+      padding: 0.15rem 0.35rem;
+      border-radius: 5px;
+      font-size: 0.92rem;
     }
-
     pre {
-      background: #272822;
-      color: #f8f8f2;
-      padding: 1rem;
-      border-radius: 6px;
+      background: #111;
+      color: #f4f4f4;
+      padding: 14px 14px;
+      border-radius: 10px;
       overflow-x: auto;
-      margin: 1.5rem 0;
+      margin: 1.2rem 0;
     }
+    pre code { background: transparent; padding: 0; }
 
-    .toc-box {
-      padding: 1rem;
-      background: #f9f9f9;
-      border: 1px solid #eee;
-      border-radius: 8px;
-      margin-bottom: 2rem;
+    .ai-summary {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px 14px 12px;
+      margin: 18px 0 22px;
+      background: #fff;
     }
-    .toc-box h2 {
-      margin-top: 0;
-      font-size: 1.2rem;
-      border: none;
-      padding-bottom: 0;
-      color: #444;
+    .ai-summary strong { display:block; margin-bottom: 6px; }
+    hr { margin: 2.8rem 0; border: 0; border-top: 1px solid var(--border); }
+
+    footer {
+      margin-top: 34px;
+      padding-top: 14px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.95rem;
     }
+    .footer-links a { margin-right: 12px; }
   </style>
 </head>
 
 <body>
-
-  <header>
-    <div>Argyle AI Knowledge（開発用・noindex）</div>
-    <nav class="site-nav">
-      <a href="/overview/">概要</a>
-      <a href="/problems/">課題別</a>
-      <a href="/products/">サービス別</a>
-      <a href="/compare/">比較</a>
-    </nav>
-  </header>
-
   <main>
+    <header>
+      <a class="toplink" href="/">← Top</a>
+      <h1>{{ .Title }}</h1>
 
-    <!-- 目次 -->
-    <div class="toc-box">
-      <h2>目次</h2>
-      {{ .TableOfContents }}
-    </div>
+      <div class="meta">
+        {{- with .Params.description -}}
+          <div>{{ . }}</div>
+        {{- end -}}
+        {{- if .Lastmod -}}
+          <div>Last updated: {{ .Lastmod.Format "2006-01-02" }}</div>
+        {{- end -}}
+      </div>
+    </header>
 
-    <!-- 本文 -->
-    <article>
-      {{ .Content }}
-    </article>
+    {{- if .TableOfContents -}}
+      {{- $toc := .TableOfContents -}}
+      {{- if gt (len $toc) 0 -}}
+        <nav class="toc">
+          <h2>目次</h2>
+          {{ $toc }}
+        </nav>
+      {{- end -}}
+    {{- end -}}
 
+    <!-- 任意：本文冒頭に「AI向け要点」ブロックを入れたい場合は、md側で
+         <div class="ai-summary"><strong>結論</strong> ... </div>
+         のように書く（Goldmark unsafe=falseのため、HTML直書き不可なら shortcodes化）。
+    -->
+
+    {{ .Content }}
+
+    <footer>
+      <div class="footer-links">
+        <a href="/">Top</a>
+        <a href="/overview/">Overview</a>
+        <a href="/compare/all/">Compare</a>
+        <a href="/products/">Products</a>
+        <a href="/problems/">Problems</a>
+      </div>
+    </footer>
   </main>
-
-  <footer>
-    <p>© Argyle LLM Knowledge Base</p>
-  </footer>
-
 </body>
 </html>
