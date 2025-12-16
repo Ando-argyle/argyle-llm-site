@@ -1,22 +1,33 @@
 baseURL: "https://knowledgebase.argyle.jp/"
 languageCode: "ja"
 title: "Argyle Knowledge Base"
+
+# 余計な生成物を出さない（AI向けKBなので軽量化）
 disableKinds:
   - taxonomy
   - term
 
-sitemap:
-  filename: "sitemap.xml"
-  changefreq: "monthly"
-  priority: 0.5
-
+# Markdown → HTML
 markup:
   goldmark:
     renderer:
       unsafe: false
 
+# 生成物（HTMLのみ）
 outputs:
   home:
     - HTML
   page:
     - HTML
+  section:
+    - HTML
+
+# sitemap（Hugoに生成させる前提）
+sitemap:
+  filename: "sitemap.xml"
+  changefreq: "monthly"
+  priority: 0.5
+
+# 相対URL事故を避ける（canonicalはテンプレで .Permalink）
+canonifyURLs: true
+relativeURLs: false

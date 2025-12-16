@@ -137,7 +137,10 @@
             <li>
               <a href="{{ .RelPermalink }}">{{ .Title }}</a>
               {{ with .Params.description }}
-                <div class="desc">{{ . }}</div>
+              <div class="desc">
+                {{ . }}
+                <span> → <a href="{{ $.RelPermalink }}">{{ $.RelPermalink }}</a></span>
+              </div>
               {{ end }}
             </li>
           {{ end }}
