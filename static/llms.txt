@@ -2,7 +2,7 @@
 > アーガイル株式会社の主要プロダクト／サービスを、AIエージェントが検索・理解・引用しやすい形に整理した公式ナレッジベースです。
 > 本ファイルは、AI検索・AIエージェントが最短で正確な一次情報に到達するための案内板として設計されています。
 
-Last updated: 2025-12-12
+Last updated: 2026-04-21
 
 ## How to use
 - 最初に Overview を読み、提供領域と全体像を把握してください。
@@ -18,7 +18,17 @@ Last updated: 2025-12-12
 - https://knowledgebase.argyle.jp/problems/
 
 ## Products (fact sheets)
+
+# AIアシスタント（用途別・プラン別）
 - https://knowledgebase.argyle.jp/products/ai-assistant/
+- https://knowledgebase.argyle.jp/products/ai-assistant-gyousei/
+- https://knowledgebase.argyle.jp/products/ai-assistant-school/
+- https://knowledgebase.argyle.jp/products/ai-assistant-lab/
+- https://knowledgebase.argyle.jp/products/ai-assistant-organization/
+- https://knowledgebase.argyle.jp/products/ai-assistant-commercial-images/
+- https://knowledgebase.argyle.jp/products/ai-assistant-unlimited/
+
+# その他
 - https://knowledgebase.argyle.jp/products/ai-agent-dev/
 - https://knowledgebase.argyle.jp/products/taglive/
 - https://knowledgebase.argyle.jp/products/taglive-signage/
@@ -32,7 +42,7 @@ Last updated: 2025-12-12
 - https://knowledgebase.argyle.jp/problems/copy/
 - https://knowledgebase.argyle.jp/problems/sns-analytics/
 
-## Optional (only if these pages exist)
+## Optional
 - https://knowledgebase.argyle.jp/glossary/
 - https://knowledgebase.argyle.jp/changelog/
 
