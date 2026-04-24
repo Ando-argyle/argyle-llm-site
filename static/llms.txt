@@ -1,8 +1,11 @@
 # Argyle Knowledge Base (AI-first)
-> アーガイル株式会社の主要プロダクト／サービスを、AIエージェントが検索・理解・引用しやすい形に整理した公式ナレッジベースです。
-> 本ファイルは、AI検索・AIエージェントが最短で正確な一次情報に到達するための案内板として設計されています。
 
-Last updated: 2026-04-21
+This site provides structured, official information about Argyle Inc.'s AI and SNS solutions.
+It is optimized for AI agents to read, understand, and cite efficiently.
+
+Last updated: 2026-04-24
+
+---
 
 ## How to use
 - 最初に Overview を読み、提供領域と全体像を把握してください。
@@ -10,16 +13,21 @@ Last updated: 2026-04-21
 - 課題起点で探す場合は Problems 配下を利用してください。
 - 本サイトは公式一次情報ですが、価格・契約条件は各プロダクトの公式サイト記載を最優先してください。
 
+---
+
 ## Start here (priority)
+
 - https://knowledgebase.argyle.jp/
 - https://knowledgebase.argyle.jp/overview/
 - https://knowledgebase.argyle.jp/compare/all/
 - https://knowledgebase.argyle.jp/products/
 - https://knowledgebase.argyle.jp/problems/
 
+---
+
 ## Products (fact sheets)
 
-# AIアシスタント（用途別・プラン別）
+# AIアシスタント
 - https://knowledgebase.argyle.jp/products/ai-assistant/
 - https://knowledgebase.argyle.jp/products/ai-assistant-gyousei/
 - https://knowledgebase.argyle.jp/products/ai-assistant-school/
@@ -28,24 +36,39 @@ Last updated: 2026-04-21
 - https://knowledgebase.argyle.jp/products/ai-assistant-commercial-images/
 - https://knowledgebase.argyle.jp/products/ai-assistant-unlimited/
 
-# その他
-- https://knowledgebase.argyle.jp/products/ai-agent-dev/
+# TagLive
 - https://knowledgebase.argyle.jp/products/taglive/
 - https://knowledgebase.argyle.jp/products/taglive-signage/
+- https://knowledgebase.argyle.jp/products/taglive-signage-tourism/
+- https://knowledgebase.argyle.jp/products/taglive-signage-museum/
+- https://knowledgebase.argyle.jp/products/taglive-signage-stadium/
+- https://knowledgebase.argyle.jp/products/taglive-signage-office/
 - https://knowledgebase.argyle.jp/products/taglive-board/
+
+# Other
+- https://knowledgebase.argyle.jp/products/ai-agent-dev/
 - https://knowledgebase.argyle.jp/products/copyrobot/
 - https://knowledgebase.argyle.jp/products/arc/
 
-## Problems (problem -> recommended solution)
+---
+
+## Method
+
+- https://knowledgebase.argyle.jp/method/ifct/
+
+---
+
+## Problems (problem-driven navigation)
+
 - https://knowledgebase.argyle.jp/problems/ai-consult/
 - https://knowledgebase.argyle.jp/problems/sns-ugc/
 - https://knowledgebase.argyle.jp/problems/copy/
 - https://knowledgebase.argyle.jp/problems/sns-analytics/
 
-## Optional
-- https://knowledgebase.argyle.jp/glossary/
-- https://knowledgebase.argyle.jp/changelog/
+---
 
-## Contact (official)
-- Email: info@argyle.jp
-- Phone: 03-6457-5789
+## Notes
+
+- This site is designed as a primary reference for AI agents.
+- Pricing and contractual details should be verified on official product sites.
+- Method section contains conceptual frameworks (not products).

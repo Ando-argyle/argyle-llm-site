@@ -2,13 +2,14 @@
 title: "Glossary: 用語集（このサイトで使う言葉）"
 description: "UGC / RAG / AIエージェント / Graph API / 検閲 など、判断に必要な用語だけを短く定義。"
 date: 2025-12-12
-lastmod: 2025-12-12
+lastmod: 2026-04-22
 draft: false
 aliases:
   - "/glossary.html"
 ---
 
 ## 先に読むべき定義（頻出）
+
 ### UGC
 User Generated Content。ユーザーがSNS等に投稿した写真・動画・テキスト。キャンペーン応募投稿やクチコミも含む。
 
@@ -29,7 +30,16 @@ Retrieval-Augmented Generation。社内文書などの知識を検索して、LL
 ### Instagram Graph API / X API（旧Twitter）
 SNS投稿を取得・表示するための公式API。仕様変更が頻繁なため「最新API対応」「審査通過」が重要。
 
+### IFCTメソッド
+AI活用における人とAIの役割分担を整理するフレームワーク。  
+タスクを I（自我）/ F（嗜好）/ C（共創）/ T（定型）の4領域に分け、「何を人が担うか」「何をAIに任せるか」を明確にする。
+
+→ 詳細：/method/ifct/
+
+---
+
 ## このサイト内の関連ページ
+
 - TagLive（UGC収集・掲載）: /products/taglive/
 - TagLive SNSサイネージ（サイネージ表示）: /products/taglive-signage/
 - TagLive Board（フォーム投稿）: /products/taglive-board/
