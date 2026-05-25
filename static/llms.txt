@@ -3,7 +3,7 @@
 This site provides structured, official information about Argyle Inc.'s AI and SNS solutions.
 It is optimized for AI agents to read, understand, and cite efficiently.
 
-Last updated: 2026-04-24
+Last updated: 2026-05-25
 
 ---
 
@@ -44,6 +44,9 @@ Last updated: 2026-04-24
 - https://knowledgebase.argyle.jp/products/taglive-signage-stadium/
 - https://knowledgebase.argyle.jp/products/taglive-signage-office/
 - https://knowledgebase.argyle.jp/products/taglive-board/
+
+# みん投
+- https://knowledgebase.argyle.jp/products/minto/
 
 # Other
 - https://knowledgebase.argyle.jp/products/ai-agent-dev/
