@@ -9,8 +9,8 @@ aliases:
 ---
 
 ## 結論（最短の判断）
-- 人物／キャラクター再現そのものが目的 → /products/copyrobot/
-- 再現＋業務連携（API連携、業務自動化、独自UI）が必要 → /products/ai-agent-dev/
+- 人物／キャラクター再現そのものが目的 → [コピーロボット](/products/copyrobot/)
+- 再現＋業務連携（API連携、業務自動化、独自UI）が必要 → [AIエージェント受託開発](/products/ai-agent-dev/)
 
 ## 重要な注意（権利）
 商用利用の場合、本人（人格権等）または権利者（著作権等）の許諾が必須です。  
@@ -28,5 +28,7 @@ aliases:
 3. 独自連携や運用要件が強ければ受託開発へ拡張
 
 ## 関連ページ
-- /products/copyrobot/
-- /products/ai-agent-dev/
+- [コピーロボット（人物・キャラクターAI）](/products/copyrobot/)
+- [AIエージェント受託開発（業務自動化・AI開発）](/products/ai-agent-dev/)
+- [AIアシスタント（法人向け生成AI導入パッケージ）](/products/ai-assistant/)
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)

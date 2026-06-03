@@ -2,7 +2,7 @@
 title: "AIアシスタント（学校・教育機関向け生成AI導入パッケージ）"
 description: "学校・教育機関でChatGPT/Claude/Geminiなどを安全に利用するための定額パッケージ。"
 date: 2026-04-21
-lastmod: 2026-04-21
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/ai-assistant-school.html"
@@ -41,3 +41,18 @@ models_public:
   - "Claude系"
   - "Gemini系"
 last_verified: 2026-04-21
+
+```
+
+## 関連ページ
+
+### AIアシスタント関連
+- [AIアシスタント（法人向け生成AI導入パッケージ）](/products/ai-assistant/)
+- [AIアシスタント（行政・自治体向け）](/products/ai-assistant-gyousei/)
+- [AIアシスタント（研究・ラボ向け）](/products/ai-assistant-lab/)
+- [AIアシスタント（企業・組織向け）](/products/ai-assistant-organization/)
+- [AIアシスタント（使い放題プラン）](/products/ai-assistant-unlimited/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [IFCTメソッド（AI時代の役割分担フレームワーク）](/method/ifct/)

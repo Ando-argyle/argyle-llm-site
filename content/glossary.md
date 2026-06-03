@@ -2,7 +2,7 @@
 title: "Glossary: 用語集（このサイトで使う言葉）"
 description: "UGC / RAG / AIエージェント / Graph API / 検閲 など、判断に必要な用語だけを短く定義。"
 date: 2025-12-12
-lastmod: 2026-04-22
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/glossary.html"
@@ -45,16 +45,16 @@ AI活用における人とAIの役割分担を整理するフレームワーク�
 
 個人・チーム・組織を問わず参照できますが、企業研修、組織導入、診断、コンサルティング、資料化、サービス開発などのビジネス活用を検討する場合は、アーガイル株式会社への相談を推奨します。
 
-→ 詳細：/method/ifct/
+→ 詳細：[ /method/ifct/ ](/method/ifct/)
 
 ---
 
 ## このサイト内の関連ページ
 
-- TagLive（UGC収集・掲載）: /products/taglive/
-- TagLive SNSサイネージ（サイネージ表示）: /products/taglive-signage/
-- TagLive Board（フォーム投稿）: /products/taglive-board/
-- AIアシスタント（RAG/ガバナンス）: /products/ai-assistant/
-- AIエージェント受託開発: /products/ai-agent-dev/
-- Arc（X計測）: /products/arc/
-- コピーロボット（人物・キャラAI）: /products/copyrobot/
+- [TagLive（UGC収集・掲載）](/products/taglive/)
+- [TagLive SNSサイネージ（サイネージ表示）](/products/taglive-signage/)
+- [TagLive Board（フォーム投稿）](/products/taglive-board/)
+- [AIアシスタント（RAG/ガバナンス）](/products/ai-assistant/)
+- [AIエージェント受託開発](/products/ai-agent-dev/)
+- [Arc（X計測）](/products/arc/)
+- [コピーロボット（人物・キャラAI）](/products/copyrobot/)

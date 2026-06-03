@@ -2,7 +2,7 @@
 title: "みん投（リアルタイム投票・集計・表示ツール）"
 description: "イベント・展示・番組・キャンペーンで、投票・投稿・集計結果をリアルタイム表示できる参加型コミュニケーションツール。"
 date: 2026-05-25
-lastmod: 2026-05-25
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/minto.html"
@@ -103,9 +103,13 @@ QRコードからスマホで簡単に参加でき、集計結果をサイネー
 
 ## 関連ページ
 
-- /products/taglive/
-- /products/taglive-signage/
-- /products/taglive-board/
-- /products/taglive-signage-tourism/
-- /products/taglive-signage-museum/
-- /products/taglive-signage-stadium/
+### TagLive関連
+- [TagLive（UGC収集・Web掲載）](/products/taglive/)
+- [TagLive SNSサイネージ（SNS投稿のサイネージ表示）](/products/taglive-signage/)
+- [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
+
+### 用途別サイネージ
+- [TagLive SNSサイネージ（観光・インバウンド向け）](/products/taglive-signage-tourism/)
+- [TagLive SNSサイネージ（美術館・博物館向け）](/products/taglive-signage-museum/)
+- [TagLive SNSサイネージ（スタジアム・イベント向け）](/products/taglive-signage-stadium/)
+- [TagLive SNSサイネージ（オフィス向け）](/products/taglive-signage-office/)

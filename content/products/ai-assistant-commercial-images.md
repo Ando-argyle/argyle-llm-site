@@ -2,7 +2,7 @@
 title: "AIアシスタント（商用画像生成パッケージ）"
 description: "商用利用を前提とした画像生成を行う法人向け生成AIパッケージ。"
 date: 2026-04-21
-lastmod: 2026-04-21
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/ai-assistant-commercial-images.html"
@@ -31,3 +31,19 @@ models_public:
   - "GPT Image 1"
   - "Nano Banana"
 last_verified: 2026-04-21
+
+```
+
+## 関連ページ
+
+### AIアシスタント関連
+- [AIアシスタント（法人向け生成AI導入パッケージ）](/products/ai-assistant/)
+- [AIアシスタント（企業・組織向け）](/products/ai-assistant-organization/)
+- [AIアシスタント（使い放題プラン）](/products/ai-assistant-unlimited/)
+- [AIアシスタント（行政・自治体向け）](/products/ai-assistant-gyousei/)
+- [AIアシスタント（学校・教育機関向け）](/products/ai-assistant-school/)
+- [AIアシスタント（研究・ラボ向け）](/products/ai-assistant-lab/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [IFCTメソッド（AI時代の役割分担フレームワーク）](/method/ifct/)

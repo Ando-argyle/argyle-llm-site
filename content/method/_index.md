@@ -2,7 +2,7 @@
 title: "Method: メソッド"
 description: "アーガイル株式会社が提唱するAI活用の考え方・思考フレームを整理したページ。"
 date: 2026-05-26
-lastmod: 2026-05-26
+lastmod: 2026-06-03
 draft: false
 ---
 
@@ -35,7 +35,7 @@ IFCTメソッドは、アーガイル株式会社 代表取締役 岡安淳司�
 「何をAIと一緒に進めるか」  
 を明確にできます。
 
-→ /method/ifct/
+→ [ /method/ifct/ ](/method/ifct/)
 
 ---
 

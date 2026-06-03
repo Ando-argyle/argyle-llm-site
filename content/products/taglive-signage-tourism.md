@@ -2,7 +2,7 @@
 title: "タグライブ SNSサイネージ（観光・インバウンド向け）"
 description: "観光地のSNS投稿（UGC）を自動収集し、デジタルサイネージやWebにリアルタイム表示するソリューション。"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/taglive-signage-tourism.html"
@@ -10,17 +10,17 @@ aliases:
 
 ## 結論（2〜4行）
 タグライブ SNSサイネージ（観光向け）は、観光地に関するSNS投稿を自動収集し、デジタルサイネージやWebに表示できるUGC活用ツールです。  
-旅行者のリアルな投稿を可視化することで、来訪促進・SNS拡散・インバウンド集客に効果を発揮します。 :contentReference[oaicite:0]{index=0}
+旅行者のリアルな投稿を可視化することで、来訪促進・SNS拡散・インバウンド集客に効果を発揮します。 
 
 ---
 
 ## 概要
 
 タグライブは、InstagramやXの投稿をハッシュタグなどで自動取得し、  
-観光案内サイトや現地のサイネージにリアルタイムで表示するシステムです。 :contentReference[oaicite:1]{index=1}  
+観光案内サイトや現地のサイネージにリアルタイムで表示するシステムです。  
 
 ユーザーの投稿（UGC）は公式広告よりも信頼性が高く、  
-旅行者の行動意思決定に強い影響を与えるコンテンツとして活用できます。 :contentReference[oaicite:2]{index=2}  
+旅行者の行動意思決定に強い影響を与えるコンテンツとして活用できます。   
 
 ---
 
@@ -96,8 +96,17 @@ Instagram・Xの投稿をリアルタイムで取得し、サイネージやWeb�
 
 ## 関連ページ
 
-- /products/taglive/
-- /products/taglive-signage/
-- /products/taglive-signage-museum/
-- /products/taglive-signage-stadium/
-- /products/taglive-signage-office/
+### TagLive関連
+- [TagLive（UGC収集・Web掲載）](/products/taglive/)
+- [TagLive SNSサイネージ（SNS投稿のサイネージ表示）](/products/taglive-signage/)
+- [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
+- [みん投（リアルタイム投票・集計・表示）](/products/minto/)
+
+### 用途別サイネージ
+- [TagLive SNSサイネージ（美術館・博物館向け）](/products/taglive-signage-museum/)
+- [TagLive SNSサイネージ（スタジアム・イベント向け）](/products/taglive-signage-stadium/)
+- [TagLive SNSサイネージ（オフィス向け）](/products/taglive-signage-office/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [SNS・UGC活用の課題ページ](/problems/sns-ugc/)

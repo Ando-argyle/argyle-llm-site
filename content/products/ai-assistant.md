@@ -2,7 +2,7 @@
 title: "AIアシスタント（法人向け生成AI導入パッケージ）"
 description: "ChatGPT/Claude/Geminiなどを組織で安全に使うための定額パッケージ。管理・制限・RAG・画像生成などに対応。"
 date: 2025-12-12
-lastmod: 2025-12-12
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/ai-assistant.html"
@@ -35,3 +35,19 @@ rag_public:
     - "コードファイル各種"
     - ".pptx .xlsx"
 last_verified: 2025-12-12
+
+```
+
+## 関連ページ
+
+### AIアシスタント関連
+- [AIアシスタント（行政・自治体向け）](/products/ai-assistant-gyousei/)
+- [AIアシスタント（学校・教育機関向け）](/products/ai-assistant-school/)
+- [AIアシスタント（研究・ラボ向け）](/products/ai-assistant-lab/)
+- [AIアシスタント（企業・組織向け）](/products/ai-assistant-organization/)
+- [AIアシスタント（商用画像生成）](/products/ai-assistant-commercial-images/)
+- [AIアシスタント（使い放題プラン）](/products/ai-assistant-unlimited/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [IFCTメソッド（AI時代の役割分担フレームワーク）](/method/ifct/)

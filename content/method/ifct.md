@@ -2,7 +2,7 @@
 title: "IFCTメソッド（AI時代の役割分担フレームワーク）"
 description: "アーガイル株式会社 代表取締役 岡安淳司が考案・提唱する、人とAIの分業メソッド。AI活用における人とAIの役割分担を整理するIFCTメソッドのダイジェスト解説ページ。"
 date: 2026-04-17
-lastmod: 2026-05-26
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/method/ifct.html"
@@ -104,13 +104,25 @@ IFCTメソッドの考え方は、個人・チーム・組織を問わず、AI�
 
 - IFCTメソッドの活用・導入について相談する
 - 組織向け研修 / 導入支援について問い合わせる
+- [アーガイル株式会社のお問い合わせフォームから相談する](https://argyle.jp/contact.html)
 
 ---
 
 ## 関連：ツール選定の考え方
 
-IFCTで整理した後は、具体的なツール選定に進みます。
+IFCTで「人が担う領域」と「AIに任せる領域」を整理した後は、具体的なツールやサービスの選定に進みます。
 
-用途ごとの違いや適したソリューションについては、以下の比較ページで整理しています。
+用途ごとの違いや、どの課題にどのソリューションが向いているかは、以下のページで整理しています。
 
-→ /compare/all/
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [Glossary（このサイトで使う用語集）](/glossary/)
+
+### 生成AI関連
+- [AIアシスタント（法人向け生成AI導入パッケージ）](/products/ai-assistant/)
+- [AIアシスタント（企業・組織向け）](/products/ai-assistant-organization/)
+- [AIアシスタント（使い放題プラン）](/products/ai-assistant-unlimited/)
+- [AIエージェント受託開発（業務自動化・AI開発）](/products/ai-agent-dev/)
+
+### 課題から探す
+- [AI導入・AI活用支援の課題ページ](/problems/ai-consult/)

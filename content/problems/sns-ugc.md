@@ -41,13 +41,15 @@ aliases:
 
 ## 主な関連プロダクト
 
-- [タグライブ](/products/taglive/)
-- [タグライブSNSサイネージ](/products/taglive-signage/)
+- [タグライブ（UGC収集・掲載）](/products/taglive/)
+- [タグライブSNSサイネージ（SNS投稿のサイネージ表示）](/products/taglive-signage/)
+- [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
+- [みん投（リアルタイム投票・集計・表示）](/products/minto/)
 
 ---
 
 ## 関連ページ
 
 - [SNS・UGC分析／効果測定の課題](/problems/sns-analytics/)
-- [Problems](/problems/)
-- [Compare](/compare/all/)
+- [Problems（課題別ページ一覧）](/problems/)
+- [Compare（総合比較）](/compare/all/)

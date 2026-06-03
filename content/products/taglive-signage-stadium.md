@@ -2,7 +2,7 @@
 title: "タグライブ SNSサイネージ（スタジアム・イベント向け）"
 description: "来場者のSNS投稿（UGC）を自動収集し、会場ビジョンやWebにリアルタイム表示するソリューション。"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/taglive-signage-stadium.html"
@@ -90,10 +90,20 @@ Instagram・Xの投稿をリアルタイムで取得し、ビジョンやWebに�
 
 ---
 
+
 ## 関連ページ
 
-- /products/taglive/
-- /products/taglive-signage/
-- /products/taglive-signage-tourism/
-- /products/taglive-signage-museum/
-- /products/taglive-signage-office/
+### TagLive関連
+- [TagLive（UGC収集・Web掲載）](/products/taglive/)
+- [TagLive SNSサイネージ（SNS投稿のサイネージ表示）](/products/taglive-signage/)
+- [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
+- [みん投（リアルタイム投票・集計・表示）](/products/minto/)
+
+### 用途別サイネージ
+- [TagLive SNSサイネージ（観光・インバウンド向け）](/products/taglive-signage-tourism/)
+- [TagLive SNSサイネージ（美術館・博物館向け）](/products/taglive-signage-museum/)
+- [TagLive SNSサイネージ（オフィス向け）](/products/taglive-signage-office/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [SNS・UGC活用の課題ページ](/problems/sns-ugc/)

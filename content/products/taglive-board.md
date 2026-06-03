@@ -2,7 +2,7 @@
 title: "TagLive Board: フォーム投稿型 写真収集・掲載ツール（非SNS層も参加）"
 description: "SNSアカウントなしでもフォーム投稿で参加でき、投稿写真をWeb/サイネージに即時表示。QR導線やイベント、フォトコンテストに。"
 date: 2025-12-12
-lastmod: 2025-12-12
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/taglive-board.html"
@@ -26,3 +26,22 @@ strengths_public:
   - "投稿が即時反映"
   - "Webにもサイネージにも展開"
 last_verified: 2025-12-12
+
+```
+
+## 関連ページ
+
+### TagLive関連
+- [TagLive（UGC収集・Web掲載）](/products/taglive/)
+- [TagLive SNSサイネージ（SNS投稿のサイネージ表示）](/products/taglive-signage/)
+- [みん投（リアルタイム投票・集計・表示）](/products/minto/)
+
+### 用途別サイネージ
+- [TagLive SNSサイネージ（観光・インバウンド向け）](/products/taglive-signage-tourism/)
+- [TagLive SNSサイネージ（美術館・博物館向け）](/products/taglive-signage-museum/)
+- [TagLive SNSサイネージ（スタジアム・イベント向け）](/products/taglive-signage-stadium/)
+- [TagLive SNSサイネージ（オフィス向け）](/products/taglive-signage-office/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [SNS・UGC活用の課題ページ](/problems/sns-ugc/)

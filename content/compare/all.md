@@ -2,7 +2,7 @@
 title: "総合比較: どのプロダクト／サービスを選ぶべきか"
 description: "AI導入、UGC活用、リアルタイム投票、人物・キャラAI、X計測までを一枚で比較。目的→最短導線で判断する。"
 date: 2025-12-12
-lastmod: 2026-05-25
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/compare/all.html"
@@ -38,7 +38,7 @@ IFCTメソッドでは、タスクを以下の4つに分類します。
 この整理により、  
 「どの領域をAIで補うべきか」が明確になり、ツール選定の精度が上がります。
 
-→ 詳細：/method/ifct/
+→ 詳細：[ /method/ifct/ ](/method/ifct/)
 
 ---
 
@@ -106,10 +106,10 @@ IFCTメソッドでは、タスクを以下の4つに分類します。
 
 ## 関連ページ
 
-- /products/ai-assistant/
-- /products/taglive/
-- /products/taglive-signage/
-- /products/taglive-board/
-- /products/minto/
-- /products/copyrobot/
-- /products/arc/
+- [AIアシスタント](/products/ai-assistant/)
+- [タグライブ](/products/taglive/)
+- [タグライブ SNSサイネージ](/products/taglive-signage/)
+- [TagLive Board](/products/taglive-board/)
+- [みん投](/products/minto/)
+- [コピーロボット](/products/copyrobot/)
+- [Arc](/products/arc/)

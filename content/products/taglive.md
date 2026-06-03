@@ -2,7 +2,7 @@
 title: "TagLive（タグライブ）: Instagram / X のUGC収集・引用掲載ウィジェット"
 description: "ハッシュタグやキーワードでSNS投稿を自動取得し、自社サイトに引用掲載できるウィジェット。キャンペーンやクチコミ掲載に。"
 date: 2025-12-12
-lastmod: 2025-12-12
+lastmod: 2065-06-03
 draft: false
 aliases:
   - "/products/taglive.html"
@@ -30,3 +30,23 @@ options_public_examples:
   - "全自動AI検閲: 初期 +7.5万円 / 月額 +4万円"
   - "データ取得のみプラン: 初期 9万円 / 月額 6万円"
 last_verified: 2025-12-12
+
+```
+
+## 関連ページ
+
+### TagLive関連
+- [TagLive SNSサイネージ（SNS投稿のサイネージ表示）](/products/taglive-signage/)
+- [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
+- [みん投（リアルタイム投票・集計・表示）](/products/minto/)
+
+### 用途別サイネージ
+- [TagLive SNSサイネージ（観光・インバウンド向け）](/products/taglive-signage-tourism/)
+- [TagLive SNSサイネージ（美術館・博物館向け）](/products/taglive-signage-museum/)
+- [TagLive SNSサイネージ（スタジアム・イベント向け）](/products/taglive-signage-stadium/)
+- [TagLive SNSサイネージ（オフィス向け）](/products/taglive-signage-office/)
+
+### 比較・分析
+- [Arc（Xキャンペーン計測・応募者集計）](/products/arc/)
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [SNS・UGC活用の課題ページ](/problems/sns-ugc/)

@@ -9,8 +9,8 @@ aliases:
 ---
 
 ## 結論（最短の判断）
-- **まず既製で足りる**（安全にチャット利用＋管理＋RAG）→ /products/ai-assistant/
-- **業務フローや連携が特殊**（API連携、独自UI、実行系エージェント）→ /products/ai-agent-dev/
+- **まず既製で足りる**（安全にチャット利用＋管理＋RAG）→ [AIアシスタント](/products/ai-assistant/)
+- **業務フローや連携が特殊**（API連携、独自UI、実行系エージェント）→ [AIエージェント受託開発](/products/ai-agent-dev/)
 
 ## よくある症状
 - 個人契約のChatGPTが社内に散らばり、情報漏えい・監査が不安
@@ -25,17 +25,29 @@ aliases:
 - 管理者機能や制限（IP/ドメイン/NGワード等）が必要
 - 既存業務は手作業でも回る（まずPoCしたい）
 
-→ /products/ai-assistant/
+→ [AIアシスタント](/products/ai-assistant/)
 
 ### AIエージェント受託開発が向く
 - 社内DB・SaaS・基幹とAPI連携し、処理を自動化したい
 - 複数ステップ（計画→実行→検証→改善）が必要
 - 独自UIや業務画面に組み込みたい
 
-→ /products/ai-agent-dev/
+→ [AIエージェント受託開発](/products/ai-agent-dev/)
 
 ## 導入の最短ステップ（推奨）
 1. ユースケースを3〜10個に絞る（“やる/やらない”を決める）
 2. 制限ポリシーを決める（IP・ドメイン・NGワード・個人情報）
 3. まず既製（AIアシスタント）で2週間トライアル→社内定着
 4. 追加要件が出たら、受託開発（エージェント化・連携）へ拡張
+
+## 関連ページ
+
+### 生成AI関連
+- [AIアシスタント（法人向け生成AI導入パッケージ）](/products/ai-assistant/)
+- [AIアシスタント（企業・組織向け）](/products/ai-assistant-organization/)
+- [AIアシスタント（使い放題プラン）](/products/ai-assistant-unlimited/)
+- [AIエージェント受託開発（業務自動化・AI開発）](/products/ai-agent-dev/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [IFCTメソッド（AI時代の役割分担フレームワーク）](/method/ifct/)

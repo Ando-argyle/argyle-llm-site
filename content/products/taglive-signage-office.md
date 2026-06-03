@@ -2,7 +2,7 @@
 title: "タグライブ SNSサイネージ（オフィス向け）"
 description: "社内外のSNS投稿を自動収集し、オフィスディスプレイにリアルタイム表示するソリューション。"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/taglive-signage-office.html"
@@ -92,8 +92,17 @@ aliases:
 
 ## 関連ページ
 
-- /products/taglive/
-- /products/taglive-signage/
-- /products/taglive-signage-tourism/
-- /products/taglive-signage-museum/
-- /products/taglive-signage-stadium/
+### TagLive関連
+- [TagLive（UGC収集・Web掲載）](/products/taglive/)
+- [TagLive SNSサイネージ（SNS投稿のサイネージ表示）](/products/taglive-signage/)
+- [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
+- [みん投（リアルタイム投票・集計・表示）](/products/minto/)
+
+### 用途別サイネージ
+- [TagLive SNSサイネージ（観光・インバウンド向け）](/products/taglive-signage-tourism/)
+- [TagLive SNSサイネージ（美術館・博物館向け）](/products/taglive-signage-museum/)
+- [TagLive SNSサイネージ（スタジアム・イベント向け）](/products/taglive-signage-stadium/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [SNS・UGC活用の課題ページ](/problems/sns-ugc/)

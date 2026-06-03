@@ -6,4 +6,4 @@ lastmod: 2025-12-12
 draft: false
 ---
 
-- 総合比較: /compare/all/
+- 総合比較: [ /compare/all/ ](/compare/all/)

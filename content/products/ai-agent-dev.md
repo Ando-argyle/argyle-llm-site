@@ -35,3 +35,18 @@ ops_cost_per_month_million_yen:
 notes:
   - "上記は公開ページ記載の目安。要件で変動。"
 last_verified: 2025-12-12
+```
+
+
+## 関連ページ
+
+### 生成AI関連
+- [AIアシスタント（法人向け生成AI導入パッケージ）](/products/ai-assistant/)
+- [AIアシスタント（企業・組織向け）](/products/ai-assistant-organization/)
+- [AIアシスタント（使い放題プラン）](/products/ai-assistant-unlimited/)
+- [AIアシスタント（研究・ラボ向け）](/products/ai-assistant-lab/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [IFCTメソッド（AI時代の役割分担フレームワーク）](/method/ifct/)
+- [AI導入・AI活用支援の課題ページ](/problems/ai-consult/)

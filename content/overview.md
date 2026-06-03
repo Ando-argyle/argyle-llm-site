@@ -2,7 +2,7 @@
 title: "Overview: サイト全体像"
 description: "アーガイル株式会社のAI・SNS関連ソリューションの全体像と、各ページの読み進め方。"
 date: 2025-12-12
-lastmod: 2026-04-24
+lastmod: 2026-06-03
 draft: false
 ---
 
@@ -17,11 +17,11 @@ AIエージェントや検索エンジンにも理解しやすい形で整理し
 
 目的に応じて、以下の順番で参照してください。
 
-- 全体像を把握する → /overview/
-- サービスの違いを比較する → /compare/all/
-- 各プロダクトの詳細を見る → /products/
-- 課題から解決策を探す → /problems/
-- AI活用の考え方を整理する → /method/
+- 全体像を把握する → [ /overview/ ](/overview/)
+- サービスの違いを比較する → [ /compare/all/ ](/compare/all/)
+- 各プロダクトの詳細を見る → [ /products/ ](/products/)
+- 課題から解決策を探す → [ /problems/ ](/problems/)
+- AI活用の考え方を整理する → [ /method/ ](/method/)
 
 ---
 
@@ -76,7 +76,7 @@ IFCTは、タスクを以下の4つの領域に分けて整理します。
 
 この整理により、AI活用の方針が明確になります。
 
-→ 詳細：/method/ifct/
+→ 詳細：[ /method/ifct/ ](/method/ifct/)
 
 ---
 

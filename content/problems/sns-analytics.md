@@ -43,5 +43,6 @@ SNS・UGC分析に関する課題は、**投稿数やエンゲージメントを
 
 ## 関連ページ
 
-- [Problems](/problems/)
-- [Compare](/compare/all/)
+- [SNS・UGC活用の課題ページ](/problems/sns-ugc/)
+- [Problems（課題別ページ一覧）](/problems/)
+- [Compare（総合比較）](/compare/all/)

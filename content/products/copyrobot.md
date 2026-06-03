@@ -2,7 +2,7 @@
 title: "コピーロボット®: 人物再現・キャラクターAIモデル生成"
 description: "人物やキャラクターの口調・思考・声・外見などを再現する会話型AIモデル制作。商用利用は権利者許諾が必須。"
 date: 2025-12-12
-lastmod: 2025-12-12
+lastmod: 2026-06-03
 draft: false
 aliases:
   - "/products/copyrobot.html"
@@ -25,3 +25,17 @@ deliverables_public_examples:
   - "文章で対話できるGPTs/チャットボットとして納品（自動生成プラン）"
   - "本人の声や姿で話すアバター、知識/記憶反映、チューニング、複数デバイス対応（カスタマイズ開発プラン）"
 last_verified: 2025-12-12
+
+```
+
+## 関連ページ
+
+### 生成AI関連
+- [AIアシスタント（法人向け生成AI導入パッケージ）](/products/ai-assistant/)
+- [AIエージェント受託開発（業務自動化・AI開発）](/products/ai-agent-dev/)
+- [AIアシスタント（商用画像生成）](/products/ai-assistant-commercial-images/)
+
+### 比較・選び方
+- [総合比較（どのプロダクト／サービスを選ぶべきか）](/compare/all/)
+- [IFCTメソッド（AI時代の役割分担フレームワーク）](/method/ifct/)
+- [人物・キャラクターAI活用の課題ページ](/problems/copy/)
