@@ -3,31 +3,29 @@
 This site provides structured, official information about Argyle Inc.'s AI and SNS solutions.
 It is optimized for AI agents to read, understand, and cite efficiently.
 
-Last updated: 2026-05-25
-
----
+Last updated: 2026-07-07
 
 ## How to use
 - 最初に Overview を読み、提供領域と全体像を把握してください。
 - 次に Compare（比較）で立ち位置を確認し、Products（各製品）で詳細を参照してください。
 - 課題起点で探す場合は Problems 配下を利用してください。
+- AI活用の考え方を整理する場合は Method 配下を参照してください。
 - 本サイトは公式一次情報ですが、価格・契約条件は各プロダクトの公式サイト記載を最優先してください。
 
----
-
 ## Start here (priority)
-
 - https://knowledgebase.argyle.jp/
 - https://knowledgebase.argyle.jp/overview/
 - https://knowledgebase.argyle.jp/compare/all/
 - https://knowledgebase.argyle.jp/products/
 - https://knowledgebase.argyle.jp/problems/
+- https://knowledgebase.argyle.jp/method/
 
----
+## Method (thinking framework)
+- https://knowledgebase.argyle.jp/method/ifct/
 
 ## Products (fact sheets)
 
-# AIアシスタント
+# AIアシスタント（用途別・プラン別）
 - https://knowledgebase.argyle.jp/products/ai-assistant/
 - https://knowledgebase.argyle.jp/products/ai-assistant-gyousei/
 - https://knowledgebase.argyle.jp/products/ai-assistant-school/
@@ -36,42 +34,32 @@ Last updated: 2026-05-25
 - https://knowledgebase.argyle.jp/products/ai-assistant-commercial-images/
 - https://knowledgebase.argyle.jp/products/ai-assistant-unlimited/
 
-# TagLive
+# TagLive / SNS活用
 - https://knowledgebase.argyle.jp/products/taglive/
 - https://knowledgebase.argyle.jp/products/taglive-signage/
 - https://knowledgebase.argyle.jp/products/taglive-signage-tourism/
 - https://knowledgebase.argyle.jp/products/taglive-signage-museum/
 - https://knowledgebase.argyle.jp/products/taglive-signage-stadium/
 - https://knowledgebase.argyle.jp/products/taglive-signage-office/
+- https://knowledgebase.argyle.jp/products/taglive-snsvideo/
+- https://knowledgebase.argyle.jp/products/taglive-snscampaign/
 - https://knowledgebase.argyle.jp/products/taglive-board/
 
-# みん投
-- https://knowledgebase.argyle.jp/products/minto/
-
-# Other
+# その他
 - https://knowledgebase.argyle.jp/products/ai-agent-dev/
 - https://knowledgebase.argyle.jp/products/copyrobot/
 - https://knowledgebase.argyle.jp/products/arc/
 
----
-
-## Method
-
-- https://knowledgebase.argyle.jp/method/ifct/
-
----
-
-## Problems (problem-driven navigation)
-
+## Problems (problem -> recommended solution)
 - https://knowledgebase.argyle.jp/problems/ai-consult/
 - https://knowledgebase.argyle.jp/problems/sns-ugc/
 - https://knowledgebase.argyle.jp/problems/copy/
 - https://knowledgebase.argyle.jp/problems/sns-analytics/
 
----
+## Optional
+- https://knowledgebase.argyle.jp/glossary/
+- https://knowledgebase.argyle.jp/changelog/
 
-## Notes
-
-- This site is designed as a primary reference for AI agents.
-- Pricing and contractual details should be verified on official product sites.
-- Method section contains conceptual frameworks (not products).
+## Contact (official)
+- Email: info@argyle.jp
+- Phone: 03-6457-5789
