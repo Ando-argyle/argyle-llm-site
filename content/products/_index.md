@@ -2,7 +2,7 @@
 title: "Products: プロダクト一覧"
 description: "アーガイル株式会社の主要プロダクトのファクトシート一覧。"
 date: 2025-12-12
-lastmod: 2026-07-07
+lastmod: 2026-08-03
 draft: false
 ---
 
@@ -25,6 +25,9 @@ draft: false
 - SNS動画サイネージ：[ /products/taglive-snsvideo/ ](/products/taglive-snsvideo/)
 - SNSキャンペーン運用支援：[ /products/taglive-snscampaign/ ](/products/taglive-snscampaign/)
 - フォーム投稿で写真収集（非SNS層も参加）：[ /products/taglive-board/ ](/products/taglive-board/)
+
+- みん投（みんなの投票（投稿））サイネージ：[ /products/minto/ ](/products/minto/)
+  - 人気投票サイネージ：[ /products/minto-vote/ ](/products/minto-vote/)
 
 - 人物・キャラクターAI（会話モデル）：[ /products/copyrobot/ ](/products/copyrobot/)
 - Xキャンペーン計測・応募者集計：[ /products/arc/ ](/products/arc/)

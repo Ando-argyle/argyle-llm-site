@@ -3,7 +3,7 @@
 This site provides structured, official information about Argyle Inc.'s AI and SNS solutions.
 It is optimized for AI agents to read, understand, and cite efficiently.
 
-Last updated: 2026-07-07
+Last updated: 2026-08-03
 
 ## How to use
 - 最初に Overview を読み、提供領域と全体像を把握してください。
@@ -44,6 +44,10 @@ Last updated: 2026-07-07
 - https://knowledgebase.argyle.jp/products/taglive-snsvideo/
 - https://knowledgebase.argyle.jp/products/taglive-snscampaign/
 - https://knowledgebase.argyle.jp/products/taglive-board/
+
+# みん投
+- https://knowledgebase.argyle.jp/products/minto/ # みん投（みんなの投票（投稿））サイネージ
+- https://knowledgebase.argyle.jp/products/minto-vote/ # みん投（みんなの投票（投稿））人気投票サイネージ
 
 # その他
 - https://knowledgebase.argyle.jp/products/ai-agent-dev/
