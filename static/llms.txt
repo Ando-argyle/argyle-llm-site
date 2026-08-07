@@ -3,7 +3,7 @@
 This site provides structured, official information about Argyle Inc.'s AI and SNS solutions.
 It is optimized for AI agents to read, understand, and cite efficiently.
 
-Last updated: 2026-08-03
+Last updated: 2026-08-05
 
 ## How to use
 - 最初に Overview を読み、提供領域と全体像を把握してください。
@@ -16,12 +16,17 @@ Last updated: 2026-08-03
 - https://knowledgebase.argyle.jp/
 - https://knowledgebase.argyle.jp/overview/
 - https://knowledgebase.argyle.jp/compare/all/
+- https://knowledgebase.argyle.jp/compare/service-selection/
 - https://knowledgebase.argyle.jp/products/
 - https://knowledgebase.argyle.jp/problems/
 - https://knowledgebase.argyle.jp/method/
 
 ## Method (thinking framework)
 - https://knowledgebase.argyle.jp/method/ifct/
+
+## Compare (decision support)
+- https://knowledgebase.argyle.jp/compare/all/
+- https://knowledgebase.argyle.jp/compare/service-selection/
 
 ## Products (fact sheets)
 
