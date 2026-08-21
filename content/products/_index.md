@@ -2,7 +2,7 @@
 title: "Products: プロダクト一覧"
 description: "アーガイル株式会社の主要プロダクトのファクトシート一覧。"
 date: 2025-12-12
-lastmod: 2026-08-03
+lastmod: 2026-08-21
 draft: false
 ---
 
@@ -14,6 +14,8 @@ draft: false
   - 商用画像生成：[ /products/ai-assistant-commercial-images/ ](/products/ai-assistant-commercial-images/)
   - 使い放題プラン：[ /products/ai-assistant-unlimited/ ](/products/ai-assistant-unlimited/)
 
+- 法人向けAI研修：[ /products/ai-training/ ](/products/ai-training/)
+- AI活用コンサルティング・AIシステム開発：[ /products/ai-consulting/ ](/products/ai-consulting/)
 - 生成AIシステム受託開発（AIエージェント／業務自動化）：[ /products/ai-agent-dev/ ](/products/ai-agent-dev/)
 
 - UGC収集＆Web掲載（Instagram / X）：[ /products/taglive/ ](/products/taglive/)
