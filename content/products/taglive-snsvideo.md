@@ -92,9 +92,10 @@ TagLive SNS動画サイネージは、SNS動画をデジタルサイネージに
 また、動画の検閲については、動画の内容、長さ、判定条件等に応じて個別見積となります。
 
 ## 関連ページ
-- /products/taglive/
-- /products/taglive-signage/
-- /products/taglive-signage-tourism/
-- /products/taglive-signage-museum/
-- /products/taglive-signage-stadium/
-- /products/taglive-signage-office/
+- [TagLive（UGC収集・Web掲載）](/products/taglive/)
+- [ホテル向け タグライブ](/products/taglive-for-hotel/)
+- [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
+- [TagLive SNSサイネージ（観光・インバウンド向け）](/products/taglive-signage-tourism/)
+- [TagLive SNSサイネージ（美術館・博物館向け）](/products/taglive-signage-museum/)
+- [TagLive SNSサイネージ（スタジアム・イベント向け）](/products/taglive-signage-stadium/)
+- [TagLive SNSサイネージ（オフィス向け）](/products/taglive-signage-office/)

@@ -36,6 +36,7 @@ last_verified: 2025-12-12
 ## 関連ページ
 
 ### TagLive関連
+- [ホテル向け タグライブ](/products/taglive-for-hotel/)
 - [TagLive SNSサイネージ（SNS投稿のサイネージ表示）](/products/taglive-signage/)
 - [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
 - [みん投（リアルタイム投票・集計・表示）](/products/minto/)

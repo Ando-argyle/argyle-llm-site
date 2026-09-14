@@ -19,6 +19,7 @@ draft: false
 - 生成AIシステム受託開発（AIエージェント／業務自動化）：[ /products/ai-agent-dev/ ](/products/ai-agent-dev/)
 
 - UGC収集＆Web掲載（Instagram / X）：[ /products/taglive/ ](/products/taglive/)
+- ホテル向けタグライブ：[ /products/taglive-for-hotel/ ](/products/taglive-for-hotel/)
 - SNS投稿のサイネージ表示（Instagram / X）：[ /products/taglive-signage/ ](/products/taglive-signage/)
   - 観光向けSNSサイネージ：[ /products/taglive-signage-tourism/ ](/products/taglive-signage-tourism/)
   - 美術館・博物館向けSNSサイネージ：[ /products/taglive-signage-museum/ ](/products/taglive-signage-museum/)

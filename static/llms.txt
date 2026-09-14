@@ -46,6 +46,7 @@ Last updated: 2026-08-21
 
 # TagLive / SNS活用
 - https://knowledgebase.argyle.jp/products/taglive/
+- https://knowledgebase.argyle.jp/products/taglive-for-hotel/
 - https://knowledgebase.argyle.jp/products/taglive-signage/
 - https://knowledgebase.argyle.jp/products/taglive-signage-tourism/
 - https://knowledgebase.argyle.jp/products/taglive-signage-museum/

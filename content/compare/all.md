@@ -122,6 +122,7 @@ AI導入に関するサービスは、目的によって選び方が変わりま
 - サイネージ・Webにリアルタイム表示
 - AIによる投稿検閲
 - 業界別（観光・施設・イベント・オフィス）に展開
+- ホテル向けには、宿泊者UGCの公式サイト掲載や館内サイネージ表示に対応
 
 ---
 
@@ -182,6 +183,7 @@ AI導入に関するサービスは、目的によって選び方が変わりま
 
 ### SNS・UGC・サイネージ
 - [タグライブ](/products/taglive/)
+- [ホテル向け タグライブ](/products/taglive-for-hotel/)
 - [タグライブ SNSサイネージ](/products/taglive-signage/)
 - [TagLive Board](/products/taglive-board/)
 - [TagLive SNSキャンペーンツール](/products/taglive-snscampaign/)

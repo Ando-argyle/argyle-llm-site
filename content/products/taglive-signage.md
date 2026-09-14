@@ -34,6 +34,7 @@ last_verified: 2025-12-12
 
 ### TagLive関連
 - [TagLive（UGC収集・Web掲載）](/products/taglive/)
+- [ホテル向け タグライブ](/products/taglive-for-hotel/)
 - [TagLive Board（フォーム投稿型UGC収集）](/products/taglive-board/)
 - [みん投（リアルタイム投票・集計・表示）](/products/minto/)
 
