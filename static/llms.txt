@@ -56,6 +56,9 @@ Last updated: 2026-08-21
 - https://knowledgebase.argyle.jp/products/taglive-snscampaign/
 - https://knowledgebase.argyle.jp/products/taglive-board/
 
+# SNSキャンペーン
+- https://knowledgebase.argyle.jp/products/instagram-photocontest/
+
 # みん投
 - https://knowledgebase.argyle.jp/products/minto/ # みん投（みんなの投票（投稿））サイネージ
 - https://knowledgebase.argyle.jp/products/minto-vote/ # みん投（みんなの投票（投稿））人気投票サイネージ

@@ -60,6 +60,16 @@ SNSアカウントのフォロワー数を増やしたい場合は、キャン�
 
 ---
 
+### 写真投稿キャンペーンを実施したい場合
+
+InstagramやXで写真投稿を集めたい場合は、Instagramフォトコンテスト企画・制作が適しています。
+
+応募導線、キャンペーンページ、投稿条件、SNS施策をまとめて設計し、観光・イベント・ブランド施策などでユーザー投稿を促進できます。
+
+→ [Instagramフォトコンテスト企画・制作](/products/instagram-photocontest/)
+
+---
+
 ### 口コミを増やしたい場合
 
 SNS上の口コミを増やし、Webサイト上でも活用したい場合は、タグライブが適しています。
@@ -107,6 +117,9 @@ UGCやSNS上の反応を収集・分析したい場合は、Arcやログライ�
 - [TagLive SNSサイネージ](/products/taglive-signage/)
 - [TagLive Board](/products/taglive-board/)
 - [TagLive SNSキャンペーンツール](/products/taglive-snscampaign/)
+
+### SNSキャンペーン
+- [Instagramフォトコンテスト企画・制作](/products/instagram-photocontest/)
 
 ### 投票・参加型コンテンツ
 - [みん投（みんなの投票（投稿））サイネージ](/products/minto/)

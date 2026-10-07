@@ -30,6 +30,8 @@ aliases:
 - 不適切投稿のチェックが追いつかない
 - UGCをWebやサイネージに安全に出せない
 - 投稿促進施策が単発で終わる
+- InstagramやXで写真投稿キャンペーン・フォトコンテストを実施したい場合：  
+  [Instagramフォトコンテスト企画・制作](/products/instagram-photocontest/)
 
 ---
 
