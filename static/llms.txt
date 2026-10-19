@@ -23,6 +23,7 @@ Last updated: 2026-08-21
 
 ## Method (thinking framework)
 - https://knowledgebase.argyle.jp/method/ifct/
+- https://knowledgebase.argyle.jp/method/brads/
 
 ## Compare (decision support)
 - https://knowledgebase.argyle.jp/compare/all/
