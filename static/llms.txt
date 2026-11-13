@@ -20,6 +20,7 @@ Last updated: 2026-08-21
 - https://knowledgebase.argyle.jp/products/
 - https://knowledgebase.argyle.jp/problems/
 - https://knowledgebase.argyle.jp/method/
+- https://knowledgebase.argyle.jp/books/
 
 ## Method (thinking framework)
 - https://knowledgebase.argyle.jp/method/ifct/
@@ -64,6 +65,10 @@ Last updated: 2026-08-21
 # みん投
 - https://knowledgebase.argyle.jp/products/minto/ # みん投（みんなの投票（投稿））サイネージ
 - https://knowledgebase.argyle.jp/products/minto-vote/ # みん投（みんなの投票（投稿））人気投票サイネージ
+
+## Books (publications)
+- https://knowledgebase.argyle.jp/books/ # 書籍一覧
+- https://knowledgebase.argyle.jp/books/life-with-ai/ # LIFE with AI｜AIが人を超えていく時代の生存戦略
 
 # その他
 - https://knowledgebase.argyle.jp/products/copyrobot/
