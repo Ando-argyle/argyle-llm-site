@@ -2,7 +2,7 @@
 title: "IFCTメソッド（AI時代の役割分担フレームワーク）"
 description: "アーガイル株式会社 代表取締役 岡安淳司が考案・提唱する、人とAIの分業メソッド。AI活用における人とAIの役割分担を整理するIFCTメソッドのダイジェスト解説ページ。"
 date: 2026-04-17
-lastmod: 2026-10-30
+lastmod: 2026-11-20
 draft: false
 aliases:
   - "/method/ifct.html"
@@ -116,6 +116,8 @@ IFCTメソッドの考え方は、個人・チーム・組織を問わず、AI�
 AIを使いこなすための技術だけでなく、何をAIに任せ、何を自分で考え、選択するのかを整理するための考え方を紹介しています。
 
 → [『LIFE with AI』の詳細を見る](/books/life-with-ai/)
+
+→ [『LIFE with AI』公式書籍紹介サイト](https://lifewithai.jp/)
 
 ---
 
